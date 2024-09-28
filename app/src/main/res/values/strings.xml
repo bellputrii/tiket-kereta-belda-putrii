@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tiket Kereta</string>
+    <string name="pemesanan">Pemesanan</string>
+    <string name="tiket_kereta">Tiket Kereta</string>
+    <string name="jam_keberangkatan">Jam Keberangkatan</string>
+    <string name="pesan_tiket">Pesan Tiket</string>
+    <string name="nama_pemesan">Nama Pemesan</string>
+
+    <string-array name="daftar_tujuan">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Yogyakarta</item>
+        <item>Medan</item>
+        <item>Bali</item>
+    </string-array>
+</resources>
